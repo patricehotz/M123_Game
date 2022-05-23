@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DontGuessAWordTwice/1.0.0": {
+        "runtime": {
+          "DontGuessAWordTwice.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DontGuessAWordTwice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
