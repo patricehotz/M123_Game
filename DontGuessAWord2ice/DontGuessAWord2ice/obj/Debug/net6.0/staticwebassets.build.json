@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "Xp49GW0Oyn0oH3qYM8RSHkc9QYtVmNrC3wmOkGXFsPs=",
+  "Source": "DontGuessAWord2ice",
+  "BasePath": "_content/DontGuessAWord2ice",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "DontGuessAWord2ice\\wwwroot",
+      "Source": "DontGuessAWord2ice",
+      "ContentRoot": "C:\\Repo\\M123_Game\\DontGuessAWord2ice\\DontGuessAWord2ice\\wwwroot\\",
+      "BasePath": "_content/DontGuessAWord2ice",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Repo\\M123_Game\\DontGuessAWord2ice\\DontGuessAWord2ice\\wwwroot\\css\\site.css",
+      "SourceId": "DontGuessAWord2ice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Repo\\M123_Game\\DontGuessAWord2ice\\DontGuessAWord2ice\\wwwroot\\",
+      "BasePath": "_content/DontGuessAWord2ice",
+      "RelativePath": "css/site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Repo\\M123_Game\\DontGuessAWord2ice\\DontGuessAWord2ice\\wwwroot\\favicon.ico",
+      "SourceId": "DontGuessAWord2ice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Repo\\M123_Game\\DontGuessAWord2ice\\DontGuessAWord2ice\\wwwroot\\",
+      "BasePath": "_content/DontGuessAWord2ice",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Repo\\M123_Game\\DontGuessAWord2ice\\DontGuessAWord2ice\\wwwroot\\js\\site.js",
+      "SourceId": "DontGuessAWord2ice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Repo\\M123_Game\\DontGuessAWord2ice\\DontGuessAWord2ice\\wwwroot\\",
+      "BasePath": "_content/DontGuessAWord2ice",
+      "RelativePath": "js/site.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\site.js"
+    }
+  ]
+}
