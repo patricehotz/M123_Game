@@ -1,0 +1,22 @@
+﻿@page
+@model DontGuessAWordTwice.Pages.guessTheWordModel
+@{
+}
+<head>
+    <h1>DONT GUESS A WORD TWICE</h1>
+    <title>DONT GUESS A WORD TWICE</title>
+</head>
+<body>
+    <input type="button" value="PAINT"/>
+    <div>
+        <canvas id="canvas" onclick="draw()" width="1000" height="1000"></canvas>
+
+    </div>
+    <form>
+        <label for="dontGuessThis">Word:</label>
+        <input type="text" id="dontGuessThis"/>
+        <input type="submit" value="Submit"/>
+    </form>
+</body>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
+<script src="~\js\site.js"/>/script>
